@@ -1,0 +1,1 @@
+go run even_and_odd.go
